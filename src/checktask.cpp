@@ -13,6 +13,11 @@ std::string checktask(std::string task) // task checking function
         wiki();
         return "done";
     }
+    else if (task == "read")
+    {
+        read();
+        return "done";
+    }
 
     else
     {
