@@ -1,4 +1,4 @@
 #ifndef PROGRAMS
 #define PROGRAMS
-int wiki();
+int wiki(); // declare wiki function
 #endif

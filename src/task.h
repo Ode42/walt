@@ -1,4 +1,4 @@
 #ifndef TASK
 #define TASK
-void task();
+void task(); // declare task function
 #endif

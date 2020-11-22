@@ -5,7 +5,8 @@
 int main()
 {
     std::cout << "WALT" << std::endl;
-    while (true) {
+    while (true) // while program is running, run task function in loop
+    {
         task();
     }
 }
