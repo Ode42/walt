@@ -1,8 +1,9 @@
 #include <iostream>
 #include <stdlib.h>
+#include "tasks.h"
 
 int main()
 {
     std::cout << "WALT" << std::endl;
-    system("cd src/wiki && python3 wiki.py USA");
+    task();
 }
