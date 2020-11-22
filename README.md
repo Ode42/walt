@@ -1,4 +1,4 @@
-# WALT - next genereation automation tool
+# WALT - next generation automation tool
 
 ## installation
 ### 
