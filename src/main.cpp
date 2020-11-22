@@ -6,5 +6,7 @@
 int main()
 {
     std::cout << "WALT" << std::endl;
-    task();
+    while (true) {
+        task();
+    }
 }
