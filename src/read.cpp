@@ -1,7 +1,7 @@
 #include <iostream>
 #include <fstream> // for file handling
 #include <string>
-#include <stdlib.h>
+#include <stdlib.h> // for system commands
 
 void read()
 {

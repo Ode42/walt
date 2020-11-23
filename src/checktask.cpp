@@ -1,5 +1,5 @@
 #include <string>
-#include "programs.h"
+#include "programs.h" // for task functions declaration
 
 std::string checktask(std::string task) // task checking function
 {
