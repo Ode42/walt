@@ -1,3 +1,3 @@
 #!/bin/bash
 
-./build/bin/walt
+./build/bin/debug/walt
