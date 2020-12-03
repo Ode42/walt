@@ -1,0 +1,9 @@
+Package: walt
+Version: 0.2
+Section: custom
+Priority: optional
+Architecture: all
+Essential: no
+Installed-Size: 1024
+Maintainer: Ode
+Description: WALT tool for automating tasks
